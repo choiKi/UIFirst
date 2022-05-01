@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C42AB91F281E48B10018FE67 /* MyVStackView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42AB91E281E48B00018FE67 /* MyVStackView.swift */; };
+		C42AB921281E57940018FE67 /* TextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C42AB920281E57940018FE67 /* TextView.swift */; };
 		C4E0E7FA281D565400172FBB /* UIFirstApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E0E7F9281D565400172FBB /* UIFirstApp.swift */; };
 		C4E0E7FC281D565400172FBB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C4E0E7FB281D565400172FBB /* ContentView.swift */; };
 		C4E0E7FE281D565400172FBB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C4E0E7FD281D565400172FBB /* Assets.xcassets */; };
@@ -36,6 +38,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		C42AB91E281E48B00018FE67 /* MyVStackView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyVStackView.swift; sourceTree = "<group>"; };
+		C42AB920281E57940018FE67 /* TextView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextView.swift; sourceTree = "<group>"; };
 		C4E0E7F6281D565400172FBB /* UIFirst.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = UIFirst.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C4E0E7F9281D565400172FBB /* UIFirstApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIFirstApp.swift; sourceTree = "<group>"; };
 		C4E0E7FB281D565400172FBB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -104,6 +108,8 @@
 				C4E0E802281D565400172FBB /* Persistence.swift */,
 				C4E0E804281D565400172FBB /* UIFirst.xcdatamodeld */,
 				C4E0E7FF281D565400172FBB /* Preview Content */,
+				C42AB91E281E48B00018FE67 /* MyVStackView.swift */,
+				C42AB920281E57940018FE67 /* TextView.swift */,
 			);
 			path = UIFirst;
 			sourceTree = "<group>";
@@ -264,7 +270,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				C4E0E803281D565400172FBB /* Persistence.swift in Sources */,
+				C42AB91F281E48B10018FE67 /* MyVStackView.swift in Sources */,
 				C4E0E7FC281D565400172FBB /* ContentView.swift in Sources */,
+				C42AB921281E57940018FE67 /* TextView.swift in Sources */,
 				C4E0E806281D565400172FBB /* UIFirst.xcdatamodeld in Sources */,
 				C4E0E7FA281D565400172FBB /* UIFirstApp.swift in Sources */,
 			);
